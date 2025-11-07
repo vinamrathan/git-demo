@@ -1,0 +1,2 @@
+git config --global user.name vinamrathan
+git config --global user.email vinamrathan537@gmail.com
